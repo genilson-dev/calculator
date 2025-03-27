@@ -1,2 +1,0 @@
-# zoo
-Clinica veterinaria
